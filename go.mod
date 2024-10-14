@@ -1,4 +1,4 @@
-module github.com/nishanths/predeclared
+module github.com/dragonsinth/predeclared
 
 go 1.22.0
 
